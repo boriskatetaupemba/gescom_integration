@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "ref": "DEGO",
+    "label": "DEGO"
+  },
+  {
+    "id": "2",
+    "ref": "DEVI",
+    "label": "DEVI"
+  },
+  {
+    "id": "4",
+    "ref": "MAG2",
+    "label": "MAG2"
+  },
+  {
+    "id": "5",
+    "ref": "KENYA",
+    "label": "KENYA"
+  },
+  {
+    "id": "6",
+    "ref": "LIKASI",
+    "label": "LIKASI"
+  },
+  {
+    "id": "7",
+    "ref": "KOLWEZI",
+    "label": "KOLWEZI"
+  },
+  {
+    "id": "8",
+    "ref": "TEMPON",
+    "label": "TEMPON"
+  },
+  {
+    "id": "9",
+    "ref": "TEMPON2",
+    "label": "TEMPON2"
+  },
+  {
+    "id": "10",
+    "ref": "LABO",
+    "label": "LABO"
+  }
+]
