@@ -9,7 +9,8 @@ from typing import Dict, Any
 import logging
 
 # Configuration Dolibarr
-DOLIBARR_URL = "https://admin.quinleysarlu.com"
+#DOLIBARR_URL = "https://admin.quinleysarlu.com"
+DOLIBARR_URL="http://localhost/gescom"
 DOLIBARR_TOKEN = "9f6f47942bc8f7ebf6909b27a7555c3d427fdb7f"
 
 # Configuration de traitement

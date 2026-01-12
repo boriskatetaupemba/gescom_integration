@@ -1,0 +1,28 @@
+[
+  {
+    "ref": 251219150610402,
+    "date": "Dec 19, 2025 12:00:00 AM",
+    "entite": "MAG2",
+    "codeProduit": 7802,
+    "RefProduit": 2647,
+    "libelleProduit": "PAPIER COLLANT ASMACO 1 X 45",
+    "prixAchat": 0,
+    "prixVente": 20000.0,
+    "qte": 1.0,
+    "_erreur_precedente": "Erreur: ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))",
+    "_ligne_originale": 13455
+  },
+  {
+    "ref": 251219145751603,
+    "date": "Dec 19, 2025 12:00:00 AM",
+    "entite": "MAG2",
+    "codeProduit": 5013,
+    "RefProduit": 1860,
+    "libelleProduit": "DECAMETRE 50 M Ch",
+    "prixAchat": 0,
+    "prixVente": 20000.0,
+    "qte": 1.0,
+    "_erreur_precedente": "Erreur: ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))",
+    "_ligne_originale": 13454
+  }
+]
